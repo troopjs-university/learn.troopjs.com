@@ -1,6 +1,6 @@
 # Summary
 
-* Prerequisites
+* [Prerequisites](Prerequisites.md)
     * [Modules](Modules.md)
     * [Mixins](Mixins.md)
     * [Promises](Promises.md)
